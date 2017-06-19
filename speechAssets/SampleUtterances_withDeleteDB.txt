@@ -1,0 +1,58 @@
+
+
+AddChoreTimeIntent tell that {Date} I {ChoreName}
+AddChoreTimeIntent tell to remember that {Date} I {ChoreName}
+AddChoreTimeIntent tell that I {ChoreName} {Date}
+AddChoreTimeIntent tell that I {ChoreName} on {Date}
+AddChoreTimeIntent tell to remember that I {ChoreName} {Date}
+AddChoreTimeIntent tell to remember that I {ChoreName} on {Date}
+
+TellChoreTimeIntent remind me the last time that I {ChoreName}
+TellChoreTimeIntent remind me the last time I {ChoreName}
+TellChoreTimeIntent what is the last time I {ChoreName}
+TellChoreTimeIntent what is the last time that I {ChoreName}
+TellChoreTimeIntent what's the last time I {ChoreName}
+TellChoreTimeIntent what's the last time that I {ChoreName}
+TellChoreTimeIntent when's the last time I {ChoreName}
+TellChoreTimeIntent when's the last time that I {ChoreName}
+TellChoreTimeIntent when is the last time I {ChoreName}
+TellChoreTimeIntent when is the last time that I {ChoreName}
+TellChoreTimeIntent when was the last time that I {ChoreName}
+TellChoreTimeIntent when was the last time I {ChoreName}
+TellChoreTimeIntent when did I last {ChoreName}
+
+
+
+DeleteDBIntent delete everything
+DeleteDBIntent delete all
+DeleteDBIntent delete all of the tasks
+DeleteDBIntent delete all of the task
+DeleteDBIntent delete every task
+DeleteDBIntent delete every tasks
+DeleteDBIntent delete all task
+DeleteDBIntent delete all tasks
+DeleteDBIntent remove every task
+DeleteDBIntent remove every tasks
+DeleteDBIntent remove all task
+DeleteDBIntent remove all tasks
+DeleteDBIntent remove everything
+DeleteDBIntent remove all
+DeleteDBIntent delete everything
+DeleteDBIntent delete all
+DeleteDBIntent delete all of the chores
+DeleteDBIntent delete all of the chore
+DeleteDBIntent delete every chore
+DeleteDBIntent delete every chores
+DeleteDBIntent delete all chore
+DeleteDBIntent delete all chores
+DeleteDBIntent remove every chore
+DeleteDBIntent remove every chores
+DeleteDBIntent remove all chore
+DeleteDBIntent remove all chores
+DeleteDBIntent remove everything
+DeleteDBIntent remove all
+
+
+DeleteChoreIntent delete {ChoreName}
+DeleteChoreIntent remove {ChoreName}
+DeleteChoreIntent forget {ChoreName}

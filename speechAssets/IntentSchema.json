@@ -1,0 +1,55 @@
+{
+  "intents": [
+    
+    {
+      "intent": "AddChoreTimeIntent",
+      "slots": [
+        {
+          "name": "ChoreName",
+          "type": "LIST_OF_CHORES"
+        },
+		{
+		  "name": "Date",
+		  "type": "AMAZON.DATE"
+		}
+      ]
+    },
+	{
+      "intent": "TellChoreTimeIntent",
+      "slots": [
+        {
+          "name": "ChoreName",
+          "type": "LIST_OF_CHORES"
+        }
+      ]
+    },
+    {
+      "intent": "DeleteChoreIntent",
+	  "slots": [
+        {
+          "name": "ChoreName",
+          "type": "LIST_OF_CHORES"
+        }
+      ]
+    },
+	{
+      "intent": "DeleteDBIntent"
+    },
+	
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+	{
+		"intent": "AMAZON.YesIntent"
+	},
+    {
+		"intent": "AMAZON.NoIntent"
+	},
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}

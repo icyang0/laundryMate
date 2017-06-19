@@ -1,0 +1,35 @@
+
+
+AddChoreTimeIntent on {Date} I {ChoreName}
+AddChoreTimeIntent {Date} I {ChoreName}
+AddChoreTimeIntent that {Date} I {ChoreName}
+AddChoreTimeIntent that on {Date} I {ChoreName}
+AddChoreTimeIntent to remember that on {Date} I {ChoreName}
+AddChoreTimeIntent to remember that {Date} I {ChoreName}
+AddChoreTimeIntent that I {ChoreName} in {Date}
+AddChoreTimeIntent that I {ChoreName} {Date}
+AddChoreTimeIntent that I {ChoreName} on {Date}
+AddChoreTimeIntent to remember that I {ChoreName} in {Date}
+AddChoreTimeIntent to remember that I {ChoreName} {Date}
+AddChoreTimeIntent to remember that I {ChoreName} on {Date}
+AddChoreTimeIntent I {ChoreName} on {Date}
+AddChoreTimeIntent I {ChoreName} {Date}
+
+
+TellChoreTimeIntent remind me the last time that I {ChoreName}
+TellChoreTimeIntent remind me the last time I {ChoreName}
+TellChoreTimeIntent what is the last time I {ChoreName}
+TellChoreTimeIntent what is the last time that I {ChoreName}
+TellChoreTimeIntent what's the last time I {ChoreName}
+TellChoreTimeIntent what's the last time that I {ChoreName}
+TellChoreTimeIntent when's the last time I {ChoreName}
+TellChoreTimeIntent when's the last time that I {ChoreName}
+TellChoreTimeIntent when is the last time I {ChoreName}
+TellChoreTimeIntent when is the last time that I {ChoreName}
+TellChoreTimeIntent when was the last time that I {ChoreName}
+TellChoreTimeIntent when was the last time I {ChoreName}
+TellChoreTimeIntent when did I last {ChoreName}
+
+DeleteChoreIntent delete {ChoreName}
+DeleteChoreIntent remove {ChoreName}
+DeleteChoreIntent forget {ChoreName}
